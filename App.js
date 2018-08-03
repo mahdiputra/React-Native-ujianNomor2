@@ -25,6 +25,7 @@ klik=()=>{
   //mahdi nakatomi
   Alert.alert(
     'Terima kasih email telah terkirim',
+    'email terkirim',
     [
       {text: 'OK', onPress: () => console.log('OK ButtonPressed')},
     ]
